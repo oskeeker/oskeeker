@@ -1,3 +1,5 @@
+[![MasterHead](https://cdn.pixabay.com/photo/2020/12/20/21/17/city-5848267_960_720.jpg)](https://github.com/oskeeker/)
+
 - 👋 Hi, I’m @oskeeker, a lead software engineer from Murcia :sunny: (Spain)
 - 👀 I’m interested in backend software development, mainly JVM. I'm also a musician and a physics lover!
 - 🌱 I’m currently learning Rust!
