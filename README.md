@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oskeeker&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oskeeker&theme=gruvbox_duo&hide_border=true)]
 
 <!---
 oskeeker/oskeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
