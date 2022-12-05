@@ -1,4 +1,4 @@
-[![MasterHead](https://images5.alphacoders.com/105/1051725.jpg = 250x250)](https://github.com/oskeeker/)
+[![MasterHead](https://images5.alphacoders.com/105/1051725.jpg =250x250)](https://github.com/oskeeker/)
 
 - 👋 Hi, I’m @oskeeker, a lead software engineer from Murcia :sunny: (Spain)
 - 👀 I’m interested in backend software development, mainly JVM. I'm also a musician and a physics lover!
