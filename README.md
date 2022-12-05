@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/k7rwj88oaja81.png?width=2304&format=png&auto=webp&s=8270dd45a6a97f9853290d3e5ea7285ea7fddfcf)](https://github.com/oskeeker/)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/2b4fbd23105939.5631d74c52459.jpg)](https://github.com/oskeeker/)
 
 - 👋 Hi, I’m @oskeeker, a lead software engineer from Murcia :sunny: (Spain)
 - 👀 I’m interested in backend software development, mainly JVM. I'm also a musician and a physics lover!
